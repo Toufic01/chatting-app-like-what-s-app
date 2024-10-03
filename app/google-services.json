@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "816545244608",
+    "firebase_url": "https://messaging-8cf32-default-rtdb.firebaseio.com",
+    "project_id": "messaging-8cf32",
+    "storage_bucket": "messaging-8cf32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816545244608:android:3fe4ccb5714cffe0461425",
+        "android_client_info": {
+          "package_name": "com.example.messaging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKAWeehPlGcbAQ9kJ8OPY7WyGT85JE6XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

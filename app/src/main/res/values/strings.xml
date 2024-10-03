@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Messaging</string>
+
+    <string name="default_web_client_id">816545244608-a7r2df573qoolplo8n7ebcobldq43ktk.apps.googleusercontent.com</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
